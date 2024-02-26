@@ -138,3 +138,4 @@ Dia da semana: Segundas (18:30\~22:00)
 <!-- [ ] Aviso: DION: fechar notas <> -->  
 - Data final para devolução dos projetos pelos avaliadores:  01/07/24  
 Último dia para entregar os diários de classe 2024/1: 22/06/24 - 29/06/24  
+ 
