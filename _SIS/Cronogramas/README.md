@@ -1,7 +1,7 @@
 # Cronograma: SIS 2024-1  
 
 Local:  Remoto (MS-Teams)  
-Dia da semana: Segundas (18:30\~22:00)  
+Dia da semana: Terças (18:30\~22:00)  
 
 <!-- [x] Aviso: Inicio das aulas <> -->  
 
